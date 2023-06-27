@@ -46,11 +46,7 @@ https://app-user-spring.herokuapp.com/swagger-ui/index.html#/
 * DELETE (Deletando por ID
 ![](https://user-images.githubusercontent.com/414878/160253396-886be8c6-2dfc-4893-a0fb-3042facfb1e3.png)
 
-## Meta
 
-Edison de Azevedo Filho – [@azevedoedison](https://twitter.com/azevedoedison) – 
-[https://www.linkedin.com/in/edison-de-azevedo/](https://www.linkedin.com/in/edison-de-azevedo/)
-[https://github.com/azevedoedison/api-user](https://github.com/azevedoedison/)
 
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
